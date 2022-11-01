@@ -12,5 +12,5 @@ What I use when I code:
 - LiveData
 - Room, Retrofit, OkHttp, Picasso
 
-🌱 I’m currently learning Jetpack Navigation, Jetpack Compose, Dagger2 and RxJava
+🌱 I’m currently learning Jetpack Compose and Navigation. I also take a deeper look into RxJava and Dagger2. And starting to look on KMM :-)
 
