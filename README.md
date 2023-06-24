@@ -6,11 +6,13 @@ I`m interested in Android app development with Kotlin.
 What I use when I code:
 - clean architecure with MVVM
 - Kotlin Coroutines
-- Dependency Injection with Dagger Hilt and Koin, 
+- dependency injection with Dagger Hilt and Koin
 - writing unit tests with jUnit and Mockito 
-- Databinding
-- LiveData
-- Room, Retrofit, OkHttp, Picasso
+- databinding
+- Flows & LiveData
+- RxJava 
+- Room, Retrofit, OkHttp, Picasso, Glide, Coil
+- Shared preferences and preferences datastore
 
-🌱 I’m currently learning Jetpack Compose and Navigation. I also take a deeper look into RxJava and Dagger2. And starting to look on KMM :-)
+🌱 Currently learning: Jetpack Compose
 
